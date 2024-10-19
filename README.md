@@ -17,3 +17,11 @@ br/>
 
 
 [Generate TOC](https://ecotrust-canada.github.io/markdown-toc/)
+
+
+opa
+https://www.openpolicyagent.org/docs/latest/terraform/
+
+
+rego playground
+https://play.openpolicyagent.org/
